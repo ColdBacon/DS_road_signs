@@ -1,1 +1,3 @@
-# DS_road_signs
+# Road signs project
+
+Prediction road signs by computer vision
